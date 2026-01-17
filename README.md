@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Ravindu_Singhapura
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I’m Ravindu Singhapura 👋
 
-<!---
-RavinduUdana2001/RavinduUdana2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mobile & Full-Stack Developer with 2+ years of real-world industry experience,
+currently working at **McLarens Group of Companies**.
+
+### 🚀 What I do
+- Build cross-platform mobile apps using **Flutter**
+- Develop full-stack systems using **React / Node.js**
+- Integrate REST APIs, authentication, and cloud services
+- Improve existing codebases for performance and scalability
+
+### 🏆 Production Apps
+- **McApps** – Enterprise Employee Management App (1,000+ users)
+- **WOSS** – Workforce & Job Management System
+- **SubseaOps** – Job & attendance management system
+
+### 🛠 Tech Stack
+Flutter • Dart • React • JavaScript • Node.js • Firebase • PostgreSQL
+
+### 🔗 Links
+- GitHub: https://github.com/RavinduUdana2001
+- Portfolio: https://codenestlk.net
+- LinkedIn: https://www.linkedin.com/in/ravindu-singhapura
+
+📫 Open to freelance and long-term collaboration.
