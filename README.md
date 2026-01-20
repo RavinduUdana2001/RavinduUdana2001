@@ -19,7 +19,6 @@ Flutter • Dart • React • JavaScript • Node.js • Firebase • PostgreSQ
 
 ### 🔗 Links
 - GitHub: https://github.com/RavinduUdana2001
-- Portfolio: https://codenestlk.net
 - LinkedIn: https://www.linkedin.com/in/ravindu-singhapura
 
 📫 Open to freelance and long-term collaboration.
