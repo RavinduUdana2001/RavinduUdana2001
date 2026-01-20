@@ -11,8 +11,8 @@ currently working at **McLarens Group of Companies**.
 
 ### 🏆 Production Apps
 - **McApps** – Enterprise Employee Management App (1,000+ users)
-- **WOSS** – Workforce & Job Management System
-- **SubseaOps** – Job & attendance management system
+- **SubseaOps** – Job & attendance management system for hull cleaners
+- **Mintora** - AI challenge coin design mobile application
 
 ### 🛠 Tech Stack
 Flutter • Dart • React • JavaScript • Node.js • Firebase • PostgreSQL
