@@ -13,6 +13,7 @@ currently working at **McLarens Group of Companies**.
 - **McApps** – Enterprise Employee Management App (1,000+ users)
 - **SubseaOps** – Job & attendance management system for hull cleaners
 - **Mintora** - AI challenge coin design mobile application
+- **MIA AI bot** - RAG based ai model for mclarens group
 
 ### 🛠 Tech Stack
 Flutter • Dart • React • JavaScript • Node.js • Firebase • PostgreSQL
